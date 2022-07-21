@@ -37,6 +37,7 @@ public class Main {
         // Ortalama kontrol edildi ve gecme durumu bilgisi verildi.
         boolean kosul = ortalama >= 60;
         System.out.println("-------------------------------");
+        System.out.println("Ortalamaniz : " + ortalama);
         String sinif = kosul ? "Tebrikler ! \nSinifi Gectiniz." : "Sinifi Gecemediniz.";
         System.out.println(sinif);
     }
