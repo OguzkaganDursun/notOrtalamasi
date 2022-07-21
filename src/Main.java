@@ -11,6 +11,7 @@ public class Main {
 
         // Kullanicidan degerler alindi.
         System.out.println("Not Ortalamasi Hesaplanacaktir. \nLutfen Notunuzu Tam Sayi Cinsinden Yaziniz ! \n-------------------------------");
+
         System.out.print("Matematik Notunuzu Giriniz : ");
         matematik = scan.nextInt();
 
